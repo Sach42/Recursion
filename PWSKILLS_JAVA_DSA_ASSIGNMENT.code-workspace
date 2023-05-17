@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../PWSKILLS_JAVA_DSA_ASSIGNMENT"
+		},
+		{
+			"path": "../../java+dsa"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
